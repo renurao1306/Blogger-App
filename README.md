@@ -1,2 +1,2 @@
 # Blogger-App
-AWT Assignment
+AWT Assignment (Only Frontend)
